@@ -5,7 +5,7 @@
 > 中子星编辑器是一个稳定、中立、可长期维护的代码编辑器分支。
 > 我们坚信，**工具应回归其本质，为全球所有开发者提供纯粹、可靠的服务。**
 
-状态：停滞中
+状态：第一次大版本更新结束，第二次更新将在四个月后开始
 
 
 
@@ -95,5 +95,6 @@ NSE (Pluto 版本) 致力于提供一个稳定的维护分支。我们的核心�
 [MIT](https://github.com/limingjun1092/Neutron-Star-Editor/blob/master/LICENSE)
 
 ---
+
 
 **Neat Open Code. Neutron Star Editor.**
